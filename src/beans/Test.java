@@ -2,7 +2,7 @@ package beans;
 
 public class Test {
 
-  public Test() {
+  private Test() {
     System.out.println("Test....");
   }
   public void hello() {
